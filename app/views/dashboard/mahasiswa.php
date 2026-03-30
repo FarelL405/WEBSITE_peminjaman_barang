@@ -190,4 +190,4 @@
     function closeQrModal() {
         document.getElementById('qrModal').classList.add('hidden');
     }
-</script>
+</script>   git add .
